@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-//import 'package:spotify_clone/Provider/dummyData.dart';
-//import 'package:spotify_clone/models/data.dart';
-//import 'package:spotify_clone/models/data.dart';
-//import 'package:spotify_clone/models/data.dart';
-//import 'package:spotify_clone/widgets/musicList.dart';
+
 
 class MusicDetails extends ConsumerStatefulWidget {
   const MusicDetails({

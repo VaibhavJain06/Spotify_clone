@@ -1,6 +1,6 @@
 # Spotify UI Clone
 
-A **Spotify UI Clone** built using **Flutter, Dart, and Provider** for state management. This app replicates the user interface of Spotify but does not include actual music playback functionality.
+A Spotify UI Clone built using Flutter, Dart, and Provider for state management. This project replicates the user interface of Spotify, including its sleek design, navigation, and layout. It is a frontend-only application without actual music streaming functionality.
 
 ## Features
 

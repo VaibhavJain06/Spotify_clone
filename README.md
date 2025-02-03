@@ -15,7 +15,10 @@ A **Spotify UI Clone** built using **Flutter, Dart, and Provider** for state man
 - **State Management:** Provider
 
 ## Screenshots
- ![Main Screen](https://github.com/user-attachments/assets/2fbc046b-87ae-4ea6-a0cd-34358caf4d79)
+<img width="2075" alt="Untitled" src="https://github.com/user-attachments/assets/ad42e639-40f7-4f8a-b252-3a2ee06fc642" />
+
+ 
+ 
 
 
 
